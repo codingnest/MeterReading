@@ -1,8 +1,8 @@
 # MeterReading
 
 ## This problem is solved in two ways
-* YOLO Darknet
-* YOLO Darkflow
+* [YOLO Darknet](https://github.com/codingnest/MeterReading/blob/hrishi/detection_example.ipynb)
+* [YOLO Darkflow](https://github.com/codingnest/MeterReading/blob/hrishi/YOLO_retrain.ipynb)
 
 both having some minor problems as of now
 
